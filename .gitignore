@@ -1,0 +1,8 @@
+# Never ship a personal ledger, profile, or pursuit.
+reps.csv
+profile.md
+targets/
+.DS_Store
+__pycache__/
+CONTEXT.md
+.claude-verified

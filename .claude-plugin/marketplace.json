@@ -1,0 +1,16 @@
+{
+  "name": "principal-reps",
+  "description": "Interview rep training for Principal-level product thinking",
+  "version": "0.1.0",
+  "owner": { "name": "Robert Nyborg" },
+  "plugins": [
+    {
+      "name": "principal-reps",
+      "description": "Timed interview reps that train the Principal-level answer pattern until it is automatic. Seven-dimension rubric, spaced repetition on weak dimensions, and a kill condition that retires the tool.",
+      "version": "0.1.0",
+      "author": { "name": "Robert Nyborg" },
+      "source": "./plugins/principal-reps",
+      "category": "productivity"
+    }
+  ]
+}
