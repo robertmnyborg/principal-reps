@@ -22,9 +22,11 @@ repetition on your weakest dimensions, tracks targets for specific roles you are
 and tells you when to stop.
 
 ```
-/plugin marketplace add <this-repo>
-/plugin install principal-reps
+/plugin marketplace add robertmnyborg/claude-harness
+/plugin install principal-reps@claude-harness
 ```
+
+Other agents that read `SKILL.md`: `npx skills add robertmnyborg/principal-reps`.
 
 Then say `/principal-reps` and answer questions.
 
